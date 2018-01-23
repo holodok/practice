@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Практика</string>
+    <string name="header_students">Студенты</string>
+    <string name="button_add_student">Добавить</string>
+    <string name="header_my_time">Мое время</string>
+    <string name="from">C</string>
+    <string name="to">до</string>
+    <string name="label_select_year">Выбери год</string>
+    <string name="label_select_month">Выбери месяц</string>
+    <string name="button_next">Дальше</string>
+    <string name="label_select_students">Практиканты в этом месяце</string>
+    <string name="label_select_teachers">Руководители в этом месяце</string>
+    <string name="hint_student_name">Имя студента</string>
+    <string name="action_add_month">Добавить</string>
+    <string name="label_empty_months">Нет сохраненных данных</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="label_empty_monthdays">Нажми на +, чтобы добавить день</string>
+    <string name="menu_edit">Изменить</string>
+    <string name="hint_teacher_name">Имя руководителя</string>
+    <string name="title_new_month">Создать</string>
+    <string name="checkbox_ansent">Не работал</string>
+    <string name="button_first_shift">1-я смена</string>
+    <string name="button_second_shift">2-я смена</string>
+    <string name="button_last_time">Прошлое</string>
+    <string name="label_from">С</string>
+    <string name="label_to">до</string>
+    <string name="label_student">Студент</string>
+    <string name="label_teacher">Руководитель</string>
+    <string name="label_general_teacher">Общий руководитель</string>
+    <string name="label_working_hours">Рабочее время</string>
+    <string name="label_time_format">%1$dч %2$dм</string>
+    <string name="label_add_time">Добавить рабочее время</string>
+    <string name="error_no_students">Добавь хоть одного студента</string>
+    <string name="error_no_teachers">Добавь хоть одного руководителя</string>
+    <string name="error_bad_time">Неверное время</string>
+    <string name="label_general_time">Общее время</string>
+    <string name="error_person_has_data">Нельзя удалить, есть данные!</string>
+    <string-array name="months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="months_for_dates">
+        <item>Января</item>
+        <item>Февраля</item>
+        <item>Марта</item>
+        <item>Апреля</item>
+        <item>Мая</item>
+        <item>Июня</item>
+        <item>Июля</item>
+        <item>Августа</item>
+        <item>Сентября</item>
+        <item>Октября</item>
+        <item>Ноября</item>
+        <item>Декабря</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_export">Экпорт</string>
+    <string name="menu_import">Импорт</string>
+    <string name="error_backup_dir_unavailable">Недоступна директория для сохранения данных.</string>
+    <string name="title_export">Имя файла для экпорта данных</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="label_wrong_file_name">Неверное имя файла.</string>
+    <string name="hint_filename">Имя файла</string>
+</resources>

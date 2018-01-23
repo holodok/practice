@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="16dp"
+              android:gravity="center_vertical">
+    <View
+            android:id="@+id/colorBox"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:padding="4dp"
+            android:background="@color/colorPrimary"/>
+    <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingLeft="16dp">
+        <TextView
+                android:id="@+id/personName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/primaryText"
+                android:textSize="16sp"
+                tools:text="Ivanov"/>
+        <TextView
+                android:id="@+id/personLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textColor="@color/secondaryText"
+                android:textSize="12sp"
+                tools:text="Student"/>
+    </LinearLayout>
+    <TextView
+            android:id="@+id/workingTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="08:00-16:12"/>
+</LinearLayout>

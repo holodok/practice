@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorAccent100">#f8bbd0</color>
+
+    <color name="primaryText">#DD000000</color>
+    <color name="secondaryText">#89000000</color>
+    <color name="divider">#64000000</color>
+    <color name="primaryInvertedText">#DDFFFFFF</color>
+    <color name="secondaryInvertedText">#89FFFFFF</color>
+
+    <color name="caldroid_sky_blue">@color/colorAccent</color>
+    <color name="month_panel">#12000000</color>
+
+    <color name="chartGridColor">#424242</color>
+    <color name="chartTeacherColor">#b2ff59</color>
+    <color name="chartFinalColor">#ffab40</color>
+
+    <color name="chartStudentColor1">#69f0ae</color>
+    <color name="chartStudentColor2">#e040fb</color>
+    <color name="chartStudentColor3">#536dfe</color>
+    <color name="chartStudentColor4">#40c4ff</color>
+    <color name="chartStudentColor5">#ffff00</color>
+
+    <array name="chart_colors">
+        <item>#69f0ae</item>
+        <item>#e040fb</item>
+        <item>#536dfe</item>
+        <item>#40c4ff</item>
+        <item>#ffff00</item>
+        <item>#ffd740</item>
+
+        <item>#ff5252</item>
+        <item>#ff4081</item>
+        <item>#7c4dff</item>
+        <item>#448aff</item>
+        <item>#18ffff</item>
+        <item>#64ffda</item>
+        <item>#b2ff59</item>
+        <item>#eeff41</item>
+        <item>#ffd740</item>
+        <item>#ffab40</item>
+        <item>#ff6e40</item>
+    </array>
+
+    <color name="overalTimeHeaderBackground">#f06292</color>
+    <color name="overralTimeItemBackground">#f8bbd0</color>
+    <color name="error">#FF0000</color>
+</resources>
